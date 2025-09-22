@@ -30,8 +30,9 @@ border: solid darkblue;
 
 width: 50%;
 margin: auto;
-height: 903px;
+height: 915%;
 background-color: rgb(122, 120, 120);
+text-align: center;
 }
 
 a
@@ -56,5 +57,18 @@ width: 500px;
 
 #kep
 {
-width: 946px;
+    border: 1px solid #fffefe;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    display: block;
+    margin: auto;
+    width: 75%;
+    background-color: rgb(161, 194, 223);
+}
+
+.bhir
+{
+    width: 800px;
+    border: 5px solid rgb(161, 194, 223);
 }
