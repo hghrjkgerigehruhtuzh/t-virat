@@ -2,6 +2,7 @@ body
 {
     background-image: url(ujsag.jpg);
 }
+
 h1,h2,h3,h4
 {
 text-align: center;
@@ -72,4 +73,5 @@ width: 500px;
     width: 80%;
     border: 5px solid rgb(161, 194, 223);
 }
+
 
